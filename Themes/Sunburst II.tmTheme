@@ -3,7 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>author</key>
-	<string>Stanley Rost</string>
+	<string>Christopher Mitchell</string>
+	<key>comment</key>
+	<string>Original by Stanley Rost - (π) Soryu, 2005</string>
 	<key>name</key>
 	<string>Sunburst II</string>
 	<key>settings</key>
@@ -671,6 +673,6 @@
 		</dict>
 	</array>
 	<key>uuid</key>
-	<string>99DB06F4-84DC-4331-8066-A051EBF7B173</string>
+	<string>C8C58F9A-35FE-44A4-9BC2-2F3C343DC81E</string>
 </dict>
 </plist>
